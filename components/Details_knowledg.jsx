@@ -75,7 +75,7 @@ function Details_knowledg() {
 							<p>
 								<i>The 5 AM Club</i>(2018) The 5 AM Club (2018) by Robin Sharma
 								is a compelling book that offers valuable insights on how waking
-								up early can transform our lives. Here's why this book is worth
+								up early can transform our lives. Here{"'"}s why this book is worth
 								reading:
 							</p>
 

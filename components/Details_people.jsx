@@ -48,7 +48,7 @@ function Details_people() {
 						</div>
 
 						<p>
-							It's <strong>highly addictive</strong> to get core insights on
+							It{"'"}s <strong>highly addictive</strong> to get core insights on
 							personally relevant topics without repetition or triviality. Added
 							to that the apps ability to suggest kindred interests opens up a
 							foundation of knowledge.

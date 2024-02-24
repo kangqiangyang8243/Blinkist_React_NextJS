@@ -10,7 +10,7 @@
   - 
 ##安装
   1. 将此存储库克隆到本地计算机。
-    - git clone <repository-url>
+    - git clone repository-url
   2. 进入项目目录。
     - cd blinkist-clone
   3. 安装依赖项。

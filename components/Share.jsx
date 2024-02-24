@@ -62,7 +62,7 @@ function Share() {
 						{/* bottom */}
 						{i === 1 && (
 							<Link href="/black">
-								<button className="bg-green-400 p-3 lg:w-[30%]  text-xl rounded-md hover:bg-green-500">
+								<button className="bg-green-400 p-3   text-xl rounded-md hover:bg-green-500">
 									Start your free 7-day trial
 								</button>
 							</Link>

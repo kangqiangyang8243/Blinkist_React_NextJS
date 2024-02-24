@@ -1,4 +1,8 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  images: {
+    domains: ['images.blinkist.io', 'static.blinkist.com'],
+  },
+};
 
 export default nextConfig;
